@@ -1,0 +1,3 @@
+ProductId,ProductName,Price,Stock,Description,ProductIcon,CategoryType
+SLR08,Wheel Chair,2899,25,Feel comfort,https://shopforhome-products.s3.amazonaws.com/products/Images/SLR-6.jpg,0
+SBR04,Bed Light,600,100,Have a nice sleep,https://shopforhome-products.s3.amazonaws.com/products/Images/SBR-4.jpg,1
